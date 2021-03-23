@@ -1,7 +1,7 @@
 ### Hi I'm Haksiu discord bot/simple website developer 👋
 
 
-### Connect with me:
+### Contact with me:
 Discord - Haksiu#4640
 
 <br />
