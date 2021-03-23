@@ -10,6 +10,6 @@ Discord - Haksiu#4640
 <details>
   <summary>GitHub Stats </summary>
 
-  <img align="left" alt="Haksiu GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Haksiu" />
+  <img alt="Haksiu GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Haksiu" />
 
 </details>
