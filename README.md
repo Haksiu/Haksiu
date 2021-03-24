@@ -1,4 +1,4 @@
-### Hi I'm Haksiu discord bot/simple website developer 👋
+### Hi I'm Haksiu discord bot and simple website developer 👋
 
 
 ### Contact with me:
