@@ -16,6 +16,6 @@ Discord - Haksiu#4640
 
 <br /><br /><br />
 <details>
-<summary> Github Statistic </summary>
+<summary> Github Stats </summary>
 <img alt="Haksiu GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Haksiu&show_icons=true&hide_border=true" />
 </details>
