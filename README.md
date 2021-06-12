@@ -2,7 +2,7 @@
 
 
 ### Contact with me:
-Discord - Haksiu#3780
+Discord - Haksiu#0001
 
 <br />
 
