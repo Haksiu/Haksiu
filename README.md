@@ -1,4 +1,4 @@
-### Hi I'm Haksiu discord bot, simple website and simple minecraft plugins developer 👋
+### Hi I'm Adrian junior front end developer 👋
 
 
 ### Contact with me:
