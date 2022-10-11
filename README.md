@@ -1,9 +1,8 @@
 ### Hi I'm Adrian junior front end developer 👋
 
 
-### Contact with me:
-Discord - Haksiu#8499
-
+### Connect with me:
+Discord - Haksiu#7478
 <br />
 
 ### Languages and Tools:
