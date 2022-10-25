@@ -1,4 +1,4 @@
-### Hi I'm Adrian junior front end developer 👋
+### Hi I'm Adrian, Trainee Front-End developer 👋
 
 
 ### Connect with me:
