@@ -1,8 +1,8 @@
-### Hi I'm Adrian, Trainee Front-End developer 👋
+### Hi I'm Adrian, Junior Web Developer 👋
 
 
 ### Connect with me:
-Discord - Haksiu#7478
+Discord - haksiuu
 <br />
 
 ### Languages and Tools:
